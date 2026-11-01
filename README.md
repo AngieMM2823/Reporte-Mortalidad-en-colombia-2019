@@ -2,8 +2,8 @@
 
 Aplicación web dinámica en **Python (Dash + Plotly)** para explorar las defunciones no fetales registradas en Colombia durante 2019, con base en las Estadísticas Vitales del DANE.
 
-- **Presentado por:** <<ANGIE VANESA MEDINA MONTERO>>
-- **Aplicación desplegada:** <<https://reporte-mortalidad-en-colombia-2019.onrender.com/>
+- **Presentado por:** ANGIE VANESA MEDINA MONTERO 
+- **Aplicación desplegada:** <<https://reporte-mortalidad-en-colombia-2019.onrender.com/>>
 - **Repositorio:** <<https://github.com/AngieMM2823/Reporte-Mortalidad-en-colombia-2019>>
 
 ---
